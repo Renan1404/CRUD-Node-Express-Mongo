@@ -1,2 +1,2 @@
-Para executar o arquivo é npm start
+Para executar o projeto é npm start
  
