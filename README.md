@@ -1,2 +1,2 @@
-# CRUD Node Express Mongo
+Para executar o arquivo é npm start
  
